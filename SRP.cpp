@@ -2,6 +2,8 @@
 #include<vector>
 using namespace std;
 
+// SOLID PRINCIPLES 
+
 class Product{
     public:
     string name;
